@@ -1,0 +1,2 @@
+# 鎖在 3.x：PuLP 4.0 預告將移除本教學使用的 PULP_CBC_CMD、LpVariable 直接建構等 API
+pulp>=3.0,<4
